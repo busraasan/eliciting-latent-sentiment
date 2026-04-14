@@ -1,0 +1,79 @@
+clean,corrupted,clean_sentiment,corrupted_sentiment
+"I thought this movie was amazing, I adored it. 
+Conclusion: This movie is","I thought this movie was awful, I abhorred it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was awful, I abhorred it. 
+Conclusion: This movie is","I thought this movie was awesome, I admired it. 
+Conclusion: This movie is",negative,positive
+"I thought this movie was awesome, I admired it. 
+Conclusion: This movie is","I thought this movie was bad, I abominated it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was bad, I abominated it. 
+Conclusion: This movie is","I thought this movie was beautiful, I appreciated it. 
+Conclusion: This movie is",negative,positive
+"I thought this movie was beautiful, I appreciated it. 
+Conclusion: This movie is","I thought this movie was disappointing, I condemned it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was disappointing, I condemned it. 
+Conclusion: This movie is","I thought this movie was brilliant, I applauded it. 
+Conclusion: This movie is",negative,positive
+"I thought this movie was brilliant, I applauded it. 
+Conclusion: This movie is","I thought this movie was disgusting, I criticized it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was disgusting, I criticized it. 
+Conclusion: This movie is","I thought this movie was exceptional, I approved it. 
+Conclusion: This movie is",negative,positive
+"I thought this movie was exceptional, I approved it. 
+Conclusion: This movie is","I thought this movie was dreadful, I denounced it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was dreadful, I denounced it. 
+Conclusion: This movie is","I thought this movie was extraordinary, I cherished it. 
+Conclusion: This movie is",negative,positive
+"I thought this movie was extraordinary, I cherished it. 
+Conclusion: This movie is","I thought this movie was horrendous, I detested it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was horrendous, I detested it. 
+Conclusion: This movie is","I thought this movie was fabulous, I commended it. 
+Conclusion: This movie is",negative,positive
+"I thought this movie was fabulous, I commended it. 
+Conclusion: This movie is","I thought this movie was horrible, I disdained it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was horrible, I disdained it. 
+Conclusion: This movie is","I thought this movie was fantastic, I congratulated it. 
+Conclusion: This movie is",negative,positive
+"I thought this movie was fantastic, I congratulated it. 
+Conclusion: This movie is","I thought this movie was mediocre, I disliked it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was mediocre, I disliked it. 
+Conclusion: This movie is","I thought this movie was good, I embraced it. 
+Conclusion: This movie is",negative,positive
+"I thought this movie was good, I embraced it. 
+Conclusion: This movie is","I thought this movie was miserable, I disparaged it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was miserable, I disparaged it. 
+Conclusion: This movie is","I thought this movie was great, I endorsed it. 
+Conclusion: This movie is",negative,positive
+"I thought this movie was great, I endorsed it. 
+Conclusion: This movie is","I thought this movie was offensive, I disrespected it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was offensive, I disrespected it. 
+Conclusion: This movie is","I thought this movie was incredible, I enjoyed it. 
+Conclusion: This movie is",negative,positive
+"I thought this movie was incredible, I enjoyed it. 
+Conclusion: This movie is","I thought this movie was terrible, I execrated it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was terrible, I execrated it. 
+Conclusion: This movie is","I thought this movie was lovely, I exalted it. 
+Conclusion: This movie is",negative,positive
+"I thought this movie was lovely, I exalted it. 
+Conclusion: This movie is","I thought this movie was unpleasant, I hated it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was unpleasant, I hated it. 
+Conclusion: This movie is","I thought this movie was marvelous, I favored it. 
+Conclusion: This movie is",negative,positive
+"I thought this movie was marvelous, I favored it. 
+Conclusion: This movie is","I thought this movie was wretched, I loathed it. 
+Conclusion: This movie is",positive,negative
+"I thought this movie was wretched, I loathed it. 
+Conclusion: This movie is","I thought this movie was amazing, I adored it. 
+Conclusion: This movie is",negative,positive
